@@ -59,4 +59,9 @@ FastAPI plays a crucial role in the project:
 - Streamlit 
 - FastAPI
 
+### Data WebAPP 
+<img width="960" alt="image" src="https://github.com/Akiinrinde/EndToEndProject/assets/55125860/ff8de4de-a9f8-4bb1-8320-1317c38c5aed">
+
+### run streamlit app
+streamlit run app.py
 
